@@ -1,4 +1,4 @@
-# HSIC Attribution Method (NeurIPS 2021)
+# HSIC Attribution Method (NeurIPS 2022)
 
 This repository contains code for the paper:
 
