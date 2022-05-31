@@ -26,10 +26,6 @@ Visualizations of object detection explanations with YOLOv4 for the first 40 ima
 
 The code for the metrics and the other attribution methods used in the paper come from the [Xplique toolbox](https://github.com/deel-ai/xplique).
 
-<a href="https://github.com/deel-ai/xplique">
-    <img src="./assets/banner.png" width="500px">
-</a>
-
 ## Authors
 
 XXX
