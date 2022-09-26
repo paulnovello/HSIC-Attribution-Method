@@ -29,7 +29,9 @@ The code for the metrics and the other attribution methods used in the paper com
 ## Authors
 
 Paul Novello, DEEL team, Artificial and Natural Intelligence Toulouse Institute; IRT Saint-Exupéry
+
 Thomas Fel, DEEL team, Artificial and Natural Intelligence Toulouse Institute; Carney Institute for Brain Science, Brown University
+
 David Vigouroux, DEEL team, Artificial and Natural Intelligence Toulouse Institute; IRT Saint-Exupéry
 
 ## Citation
