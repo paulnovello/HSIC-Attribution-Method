@@ -2,7 +2,7 @@
 
 This repository contains code for the paper:
 
-*Making Sense of Dependence: Efficient Black-box Explanations Using Dependence Measure*, XXX
+*Making Sense of Dependence: Efficient Black-box Explanations Using Dependence Measure*, Paul Novello, Thomas Fel, David Vigouroux, NeurIPS 2022.
 
 The code is implemented and available **for Tensorflow**. 
 A notebook is available: [notebook Tensorflow](./tensorflow_example.ipynb).
@@ -28,4 +28,18 @@ The code for the metrics and the other attribution methods used in the paper com
 
 ## Authors
 
-XXX
+Paul Novello, DEEL team, Artificial and Natural Intelligence Toulouse Institute; IRT Saint-Exupéry
+Thomas Fel, DEEL team, Artificial and Natural Intelligence Toulouse Institute; Carney Institute for Brain Science, Brown University
+David Vigouroux, DEEL team, Artificial and Natural Intelligence Toulouse Institute; IRT Saint-Exupéry
+
+## Citation
+
+```
+@inproceedings{novello_hsic_attribution,
+ author = {Novello, Paul and Fel, Thomas and Vigouroux, David},
+ booktitle = {Advances in Neural Information Processing Systems},
+ title = {Making Sense of Dependence: Efficient Black-box Explanations Using Dependence Measure},
+ volume = {35},
+ year = {2022}
+}
+```
