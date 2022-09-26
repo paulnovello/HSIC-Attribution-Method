@@ -13,8 +13,8 @@ A notebook is available: [notebook Tensorflow](./tensorflow_example.ipynb).
 
 The notebook allows to run the code for:
 
-*Classical classification explanations
-*Interactions in classification explanations
+* Classical classification explanations
+* Interactions in classification explanations
 
 The images are taken from ImageNet and the model used is a ResNet50.
 
