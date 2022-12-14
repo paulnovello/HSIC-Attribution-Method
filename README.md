@@ -8,7 +8,7 @@ The code is implemented and available **for Tensorflow**.
 A notebook is available: [notebook Tensorflow](./tensorflow_example.ipynb).
 
 **Update 14/12/2022:** The method is now available in [Xplique](https://github.com/deel-ai/xplique), an awesome XAI library that has been used for all the experiments found in the paper.
-![xplique logo](./assets/banner.png "Click to go to xplique's github page").
+[![xplique logo](./assets/banner.png "Click to go to xplique's github page")](https://github.com/deel-ai/xplique).
 
 ## Content
 
