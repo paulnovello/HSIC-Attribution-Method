@@ -10,6 +10,10 @@ A notebook is available: [notebook Tensorflow](./tensorflow_example.ipynb).
 **Update 14/12/2022:** The method is now available in [Xplique](https://github.com/deel-ai/xplique), an awesome XAI library that has been used for all the experiments found in the paper.
 [![xplique logo](./assets/banner.png "Click to go to xplique's github page")](https://github.com/deel-ai/xplique).
 
+## Requirements and disclaimers (update 02/01/2023)
+
+The present code uses the version 4.2 of [Xplique](https://github.com/deel-ai/xplique). The namespaces of version 4.3 have been changed to include HSIC attribution method so we recommend to use HSIC directly from Xplique 4.3. Since HSIC is now part of Xplique, the present repository will not be maintained.
+
 ## Content
 
 ### Notebook 
