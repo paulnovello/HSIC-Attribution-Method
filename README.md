@@ -12,7 +12,7 @@ A notebook is available: [notebook Tensorflow](./tensorflow_example.ipynb).
 
 ## Requirements and disclaimers (update 02/01/2023)
 
-The present code uses the version 4.2 of [Xplique](https://github.com/deel-ai/xplique). The namespaces of version 4.3 have been changed to include HSIC attribution method so we recommend to use HSIC directly from Xplique 4.3. Since HSIC is now part of Xplique, the present repository will not be maintained.
+The present code uses the version 0.4.2 of [Xplique](https://github.com/deel-ai/xplique). The namespaces of version 0.4.3 have been changed to include HSIC attribution method so we recommend to use HSIC directly from Xplique 0.4.3. Since HSIC is now part of Xplique, the present repository will not be maintained.
 
 ## Content
 
